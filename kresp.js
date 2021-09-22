@@ -1,0 +1,1 @@
+Object.defineProperty(Object.prototype, "cnBSeen", {value: true, enumerable: false});
