@@ -1,2 +1,2 @@
 # KRUNKER
-Just some Krunker Stuff 
+In here im putting things related to the https://Krunker.io/ Game
